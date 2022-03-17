@@ -1,0 +1,42 @@
+.item {
+    display: flex;
+    height: 500px;
+    width: 77%;
+    margin: auto;
+}
+
+.container {
+    font-size: 22px;
+    height: 100%;
+    width: 30%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(202, 100, 4);
+}
+
+#btn {
+    background-color: rgb(202, 100, 4);
+    color: antiquewhite;
+    padding: 16px 22px;
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+.left {
+    height: 100px;
+    width: 30%;
+    margin-left: 65%;
+}
+
+.imgbox {
+    height: 75%;
+    width: 35%;
+    margin: auto;
+    border: 2px solid black;
+}
